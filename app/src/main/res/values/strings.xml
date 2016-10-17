@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RecyclerViewDemo</string>
+    <string name="add_item">添加</string>
+    <string name="del_item">删除</string>
+</resources>
